@@ -1,11 +1,15 @@
 public class MathTester {
 
-    public static void main(String[]){
+    public static void main(String[] args){
         String firstWord;
         String secondWord;
 
-        firstWord = "dog"
-        secondWord = "house"
+
+        firstWord = "dog";
+        secondWord = "house";
+        
+
+        System.out.println(firstWord+secondWord);
 
 
 
